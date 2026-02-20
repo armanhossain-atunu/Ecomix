@@ -2,9 +2,10 @@
 const nextConfig = {
   /* config options here */
   reactStrictMode: true,
+
   swcMinify: true,
   images: {
-    domains: ["demo.uix.store"],
+    domains: ["demo.uix.store", "images.unsplash.com"],
   },
  
 };
