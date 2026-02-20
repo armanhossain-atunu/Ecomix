@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Wooden Chair",
+    "price": 120,
+    "rating": 4.5,
+    "description": "Comfortable modern wooden chair perfect for dining or office use.",
+    "image": "https://demo.uix.store/sober-furniture/wp-content/uploads/sites/3/2017/06/1-16-433x516.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Luxury Sofa Set",
+    "price": 850,
+    "rating": 4.8,
+    "description": "Premium fabric sofa set with soft cushions and elegant design.",
+    "image": "https://hatil-image.s3.ap-southeast-1.amazonaws.com/Nop_Image/Chelif-334_4.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Classic Coffee Table",
+    "price": 220,
+    "rating": 4.3,
+    "description": "Stylish coffee table made with solid wood and smooth finish.",
+    "image": "https://via.placeholder.com/300x300?text=Table+1"
+  },
+  {
+    "id": 4,
+    "title": "King Size Bed",
+    "price": 1200,
+    "rating": 4.7,
+    "description": "Strong wooden king size bed with premium polish.",
+    "image": "https://via.placeholder.com/300x300?text=Bed+1"
+  },
+  {
+    "id": 5,
+    "title": "Office Study Desk",
+    "price": 300,
+    "rating": 4.4,
+    "description": "Minimal study desk suitable for home and office workspace.",
+    "image": "https://via.placeholder.com/300x300?text=Desk+1"
+  },
+  {
+    "id": 6,
+    "title": "Comfort Recliner Chair",
+    "price": 450,
+    "rating": 4.6,
+    "description": "Relaxing recliner chair with adjustable back support.",
+    "image": "https://via.placeholder.com/300x300?text=Recliner"
+  },
+  {
+    "id": 7,
+    "title": "Bookshelf Cabinet",
+    "price": 280,
+    "rating": 4.2,
+    "description": "Spacious bookshelf for organizing books and decor items.",
+    "image": "https://via.placeholder.com/300x300?text=Bookshelf"
+  },
+  {
+    "id": 8,
+    "title": "Dining Table Set",
+    "price": 980,
+    "rating": 4.7,
+    "description": "6-seater dining table set with premium wooden finish.",
+    "image": "https://via.placeholder.com/300x300?text=Dining+Set"
+  },
+  {
+    "id": 9,
+    "title": "Bedside Nightstand",
+    "price": 150,
+    "rating": 4.1,
+    "description": "Compact bedside table with drawer storage.",
+    "image": "https://via.placeholder.com/300x300?text=Nightstand"
+  },
+  {
+    "id": 10,
+    "title": "TV Entertainment Unit",
+    "price": 520,
+    "rating": 4.5,
+    "description": "Modern TV unit with shelves for accessories.",
+    "image": "https://via.placeholder.com/300x300?text=TV+Unit"
+  },
+  {
+    "id": 11,
+    "title": "Wooden Wardrobe",
+    "price": 1100,
+    "rating": 4.6,
+    "description": "Spacious wardrobe with hanging and shelf storage.",
+    "image": "https://via.placeholder.com/300x300?text=Wardrobe"
+  },
+  {
+    "id": 12,
+    "title": "Minimal Shoe Rack",
+    "price": 180,
+    "rating": 4.0,
+    "description": "Simple shoe rack perfect for small spaces.",
+    "image": "https://via.placeholder.com/300x300?text=Shoe+Rack"
+  },
+  {
+    "id": 13,
+    "title": "Accent Armchair",
+    "price": 340,
+    "rating": 4.4,
+    "description": "Stylish armchair with comfortable cushioning.",
+    "image": "https://via.placeholder.com/300x300?text=Armchair"
+  },
+  {
+    "id": 14,
+    "title": "Wooden Dressing Table",
+    "price": 600,
+    "rating": 4.5,
+    "description": "Elegant dressing table with mirror and drawers.",
+    "image": "https://via.placeholder.com/300x300?text=Dressing+Table"
+  },
+  {
+    "id": 15,
+    "title": "Corner Study Table",
+    "price": 260,
+    "rating": 4.2,
+    "description": "Space-saving corner table for study or work.",
+    "image": "https://via.placeholder.com/300x300?text=Corner+Table"
+  },
+  {
+    "id": 16,
+    "title": "Outdoor Patio Chair",
+    "price": 210,
+    "rating": 4.3,
+    "description": "Weather-resistant patio chair for outdoor use.",
+    "image": "https://via.placeholder.com/300x300?text=Patio+Chair"
+  },
+  {
+    "id": 17,
+    "title": "Glass Top Center Table",
+    "price": 390,
+    "rating": 4.4,
+    "description": "Modern center table with strong glass top.",
+    "image": "https://via.placeholder.com/300x300?text=Center+Table"
+  },
+  {
+    "id": 18,
+    "title": "Kids Study Chair",
+    "price": 140,
+    "rating": 4.1,
+    "description": "Comfortable and colorful chair designed for kids.",
+    "image": "https://via.placeholder.com/300x300?text=Kids+Chair"
+  },
+  {
+    "id": 19,
+    "title": "Storage Ottoman",
+    "price": 190,
+    "rating": 4.3,
+    "description": "Multi-purpose ottoman with hidden storage space.",
+    "image": "https://via.placeholder.com/300x300?text=Ottoman"
+  },
+  {
+    "id": 20,
+    "title": "Wooden Bench",
+    "price": 310,
+    "rating": 4.2,
+    "description": "Strong wooden bench suitable for indoor or outdoor use.",
+    "image": "https://via.placeholder.com/300x300?text=Bench"
+  }
+]
