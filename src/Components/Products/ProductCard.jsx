@@ -1,8 +1,10 @@
+
 import Image from 'next/image';
 import React from 'react';
 
 const ProductCard = ({ product }) => {
     const { title, image, price, rating } = product;
+   
     return (
         <div className=' group'>
             <div className="card bg-base-100 shadow-sm">

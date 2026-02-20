@@ -1,3 +1,4 @@
+'use client'
 import Image from 'next/image';
 import React from 'react';
 
@@ -33,7 +34,7 @@ const MostAdd = () => {
             </div>
             <div className='grid lg:grid-cols-2 gap-4 mt-10'>
                 <div className='relative overflow-hidden group w-fit'>
-                    <Image src="https://demo.uix.store/sober-furniture/wp-content/uploads/sites/3/2017/06/4-10.jpg" w width={1000} height={1000} alt="most-add" className='transition-transform duration-500 ease-out group-hover:scale-110' />
+                    <Image src="https://demo.uix.store/sober-furniture/wp-content/uploads/sites/3/2017/06/4-10.jpg" width={1000} height={1000} alt="most-add" className='transition-transform duration-500 ease-out group-hover:scale-110' />
                     <div className='absolute text-white top-20  left-30 transform -translate-x-1/2 -translate-y-1/2 font-manrope font-semibold lg:text-xl '>
                         <p>Exclusive bundles </p>
                         <button className='relative mt-2 after:block after:w-0 after:h-[2px] after:bg-white after:transition-all after:duration-300 group-hover:after:w-full'>SEE OUR COLLECTION</button>
