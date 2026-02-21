@@ -1,36 +1,117 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ecomix - Modern E-Commerce Platform
 
-## Getting Started
+![Ecomix Banner](https://via.placeholder.com/1200x400?text=Ecomix+Banner)
 
-First, run the development server:
+## 🚀 Project Overview
+Ecomix is a modern e-commerce platform built with **Next.js**, **React**, and **Tailwind CSS**.  
+It allows users to browse products, sort by price, and navigate with **pagination**.  
+The project includes a **loading skeleton**, responsive design, and is ready to deploy on **Vercel**.
 
-```bash
+---
+
+## 🛠️ Features
+
+- Product listing with images, title, price, and rating
+- Price sorting: Low → High, High → Low
+- Pagination for products (8 per page)
+- Skeleton loading while fetching products
+- Responsive layout: mobile, tablet, and desktop
+- Dynamic product details page
+- Client-side hydration safe
+- Ready to deploy on **Vercel**
+- Clean and reusable components (e.g., ProductCard, NavLink)
+
+---
+
+## 📁 Project Structure
+app/
+├── products/
+│ ├── page.jsx # Product listing page
+│ └── [id]/page.jsx # Product detail page
+├── about/page.jsx # About page
+├── contact/page.jsx # Contact page
+components/
+├── ProductCard.jsx
+├── NavLink.jsx
+└── Skeleton/
+└── ProductsSkeleton.jsx
+data/
+└── data.json # Sample product data
+public/
+└── images/ # Product images
+next.config.js
+package.json
+app/
+├── products/
+│ ├── page.jsx # Product listing page
+│ └── [id]/page.jsx # Product detail page
+├── about/page.jsx # About page
+├── contact/page.jsx # Contact page
+components/
+├── ProductCard.jsx
+├── NavLink.jsx
+└── Skeleton/
+└── ProductsSkeleton.jsx
+data/
+└── data.json # Sample product data
+public/
+└── images/ # Product images
+next.config.js
+package.json
+
+2. Install Dependencies
+npm install
+3. Run Locally
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000
+ to view in browser
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+4. Build for Production
+npm run build
+npm run start
+🌐 Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project can be deployed on Vercel easily:
 
-## Learn More
+Push project to GitHub
 
-To learn more about Next.js, take a look at the following resources:
+Sign in to Vercel
+ → Import GitHub repository
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Deploy project →[ Live URL auto-generated](https://ecomix-six.vercel.app/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Every push to main branch → Auto redeploy
 
-## Deploy on Vercel
+📝 Available Pages
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Home / Products: /products
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Product Details: /products/[id]
+
+About Us: /about
+
+Contact: /contact
+
+📌 Future Improvements
+
+Price range slider filter
+
+Search by product name
+
+Sort by rating or popularity
+
+Add to cart functionality
+
+User authentication (login/signup)
+
+Checkout & payment integration
+
+
+👍 Author
+
+Arman Hossain Atunu
+
+LinkedIn
+
+GitHub
