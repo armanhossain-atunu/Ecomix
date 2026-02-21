@@ -39,7 +39,7 @@ This project is perfect for **portfolio showcase** and can be easily deployed on
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Ecomix.git
+git clone https://github.com/armanhossain-atunu/Ecomix.git
 cd Ecomix
 ```
 ---
