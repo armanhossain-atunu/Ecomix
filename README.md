@@ -68,13 +68,6 @@ npm run start
 
 ---
 
-এই README.md template **full professional look** দিয়েছে:
-
-- ✅ Badges (Next.js, Tailwind, Vercel, React)  
-- ✅ Live demo link  
-- ✅ Screenshots table  
-- ✅ Clear features & tech stack  
-- ✅ Future improvements & roadmap  
-- ✅ License & Author section  
+- ✅ Live link   https://ecomix-six.vercel.app
 
 ---
