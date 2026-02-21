@@ -8,7 +8,7 @@ const MostAdd = () => {
             <div className='grid lg:grid-cols-3 gap-4'>
                 <div className='relative overflow-hidden group w-fit'>
                     <Image src="https://demo.uix.store/sober-furniture/wp-content/uploads/sites/3/2017/06/1-20.jpg" width={1000} height={1000} alt="most-add" className='transition-transform duration-500 ease-out group-hover:scale-110' />
-                    <div className='absolute top-30 left-20 transform -translate-x-1/2 -translate-y-1/2 font-manrope font-semibold text-3xl '>
+                    <div className='absolute top-30 left-30 transform -translate-x-1/2 -translate-y-1/2 font-manrope font-semibold text-2xl '>
                         <h1>Find <br /> Inspration <br /> Here </h1>
                         <button className='relative mt-6 after:block after:w-0 after:h-[2px] after:bg-black after:transition-all after:duration-300 group-hover:after:w-full'>Shop Now</button>
                     </div>
